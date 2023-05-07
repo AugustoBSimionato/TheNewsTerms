@@ -4,8 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kreon:wght@600&family=Poppins&display=swap" rel="stylesheet">
+
     <link rel="stylesheet" href="style.css">
+    
     <title>TheNews | Terms of Service</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
 </head>
 <body>
 
@@ -15,7 +21,7 @@
 
     <div class="rectangle">
         <header>
-            <h1>Terms of Service</h1>
+            <h1>Terms of Service 📃</h1>
         </header>    
     
         <div class="list-terms">
@@ -28,13 +34,20 @@
 			    <li>We reserve the right to modify or discontinue the app or any part thereof at any time, without notice.</li>
 			    <li>These Terms of Service are subject to change at any time. It is your responsibility to periodically review these Terms of Service to be aware of any changes.</li>
             </ul>
-        </main>
-        
-        <div class="button">
-            <button>I agree with the terms</button>
         </div>
         
-    </div>
+        <button id="open">I agree</button>
 
+        <div class="modal-container" id="modal_container">
+            <div class="modal">
+                <h1>Welcome! 🎉</h1>
+                <p>We're happy you join us 😆</p>
+                <button id="close">Close</button>
+            </div>
+        </div>
+
+    </div>
+    
+    <script src="TheNews.js"></script>
 </body>
 </html>
