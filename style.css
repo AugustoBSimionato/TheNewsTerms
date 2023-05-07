@@ -8,11 +8,30 @@ body {
 .rectangle {
     background-color: #f2f2f2;
     border-radius: 2.5rem;
-    margin: 2.5rem;
+    margin: 4rem 10rem 0 10rem;
+	align-items: center;
 }
 
 header {
+	background-image: url('background.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 20px;
 	text-align: center;
+}
+
+header h1 {
+	font-size: 2rem;
+	color: #333;
+}
+
+ul li {
+	font-size: 1.2rem;
+	color: #666;
+	padding: 10px;
+	border-bottom: 1px solid #ccc;
+	line-height: 1.5;
+	border-bottom: none;
 }
 
 .list-terms {
@@ -25,6 +44,27 @@ header {
 li {
 	padding: 10px;
 	border-bottom: 1px solid #ccc;
+}
+
+a {
+    transition: all 0.3s ease-in-out;
+}
+a:hover {
+    color: #ff6600;
+}
+
+button {
+	background-color: #ff6600;
+	color: #fff;
+	font-size: 1.2rem;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	margin-top: 20px;
+}
+button:hover {
+	background-color: #e65c00;
 }
 
 @media screen and (min-width: 768px) {
