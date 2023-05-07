@@ -1,5 +1,4 @@
 body {
-	font-family: Arial, sans-serif;
 	margin: 0;
 	padding: 0;
     background-color: #D20000;
@@ -14,23 +13,10 @@ body {
 
 .rectangle {
     background-color: #f2f2f2;
-    border-radius: 2.5rem;
+    border-radius: 2rem;
     margin: 3rem 10rem 0 10rem;
 	align-items: center;
 	font-family: 'Poppins', sans-serif;
-}
-
-header {
-	background-image: url('background.jpg');
-	background-repeat: no-repeat;
-	background-size: cover;
-	padding: 20px;
-	text-align: center;
-}
-
-header h1 {
-	font-size: 2rem;
-	color: #333;
 }
 
 ul li {
