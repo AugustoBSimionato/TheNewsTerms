@@ -2,13 +2,13 @@ body {
 	font-family: Arial, sans-serif;
 	margin: 0;
 	padding: 0;
-    background-color: #ff0000;
+    background-color: #D20000;
 }
 
 .rectangle {
     background-color: #f2f2f2;
     border-radius: 2.5rem;
-    margin: 4rem 10rem 0 10rem;
+    margin: 3rem 10rem 0 10rem;
 	align-items: center;
 }
 
@@ -51,6 +51,10 @@ a {
 }
 a:hover {
     color: #ff6600;
+}
+
+.button {
+	align-items: center;
 }
 
 button {
