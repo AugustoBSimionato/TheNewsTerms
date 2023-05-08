@@ -20,6 +20,8 @@ body {
     border-radius: 1.5rem;
     margin: 3rem 10rem 0 10rem;
 	font-family: 'Poppins', sans-serif;
+
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
 }
 
 li {
