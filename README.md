@@ -7,4 +7,4 @@
 
 https://augustobsimionato.github.io/TheNews/
 
-<img width="1552" alt="Captura de Tela 2023-05-07 às 19 58 31" src="https://user-images.githubusercontent.com/72254418/236706775-f9dd90f9-917f-45c6-af9d-e0d4564f1d7b.png">
+<img width="1552" alt="Captura de Tela 2023-05-08 às 11 02 03" src="https://user-images.githubusercontent.com/72254418/236845758-390cb2f7-c947-4991-8cb8-5a5af57ec73d.png">
