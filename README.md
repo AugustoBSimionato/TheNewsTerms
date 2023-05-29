@@ -1,7 +1,7 @@
 # TheNewsTerms
 
 ## About this project
-> Project created to complement the original project called thenews-app
+> Project created to complement the original repository called TheNews
 
 > Link to the site that contains the fictional "terms of service" of TheNews app 👇
 
