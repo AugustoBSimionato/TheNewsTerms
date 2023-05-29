@@ -1,4 +1,4 @@
-# TheNews
+# TheNewsTerms
 
 ## About this project
 > Project created to complement the original project called thenews-app
